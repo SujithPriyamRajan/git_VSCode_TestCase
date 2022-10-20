@@ -1,3 +1,5 @@
+//Checking Git 
+
 var num //function scoped only access with in functions
 let name  //block scoped  NOT even within function
 const age =12  //block scoped *NO RE installation
