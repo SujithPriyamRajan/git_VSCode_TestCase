@@ -1,8 +1,10 @@
-//Checking Git 
+//Checking Git --Working
 
-//Git is working from Git HUB Edit
+//Git is working from Git HUB Edit ---Working
 
-//Git is Checking from Local To global git Profile
+//Git is Checking from Local To global git Profile   --Working
+
+//Branch Created To Check
 
 var num //function scoped only access with in functions
 let name  //block scoped  NOT even within function
