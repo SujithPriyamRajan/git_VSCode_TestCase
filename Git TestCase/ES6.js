@@ -4,7 +4,9 @@
 
 //Git is Checking from Local To global git Profile   --Working
 
-//Branch Created To Check
+//Branch Created To Check --Working fine NO Merge Conflict
+
+//Check on the Global to Local Rep
 
 var num //function scoped only access with in functions
 let name  //block scoped  NOT even within function
